@@ -1,6 +1,5 @@
 {
-    "All":[
-        {
+    {
             "Name":"Overhand",
             "Parents":[
                 "Site"
@@ -36,5 +35,4 @@
             "Type":"Basic",
             "Class":"Bend"
         }
-    ]
 }
